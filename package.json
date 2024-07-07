@@ -1,5 +1,5 @@
 {
-  "name": "orange-money-api",
+  "name": "wanna/orange-money-api",
   "version": "1.0.0",
   "description": "A Node.js wrapper for the Orange Money Web Payment API",
   "main": "index.js",
