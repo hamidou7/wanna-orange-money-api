@@ -7,7 +7,7 @@ A Node.js wrapper for the Orange Money Web Payment API.
 To install the package, use the following command:
 
 ```sh
-npm i wanna_orange-money-api
+npm i @wanna/orange-money-api
 
 
 Usage
@@ -111,25 +111,3 @@ If you encounter any issues, please open an issue on the GitHub repository.
 
 Acknowledgements
 Thanks to the developers and maintainers of the Orange Money Web Payment API.
-
-
-
-### Steps to Add the `README.md` to Your Project and Publish
-
-1. **Create the `README.md` file**: Place the above content in a file named `README.md` in the root directory of your project.
-
-2. **Add and commit the file to your repository**:
-    ```sh
-    git add README.md
-    git commit -m "Add README.md"
-    git push origin main
-    ```
-
-3. **Update the package version**: If you have already published the package, update the version in `package.json` (e.g., `"version": "1.0.1"`).
-
-4. **Publish the updated package to npm**:
-    ```sh
-    npm publish
-    ```
-
-This `README.md` will help users understand how to install, configure, and use your package.
