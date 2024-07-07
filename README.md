@@ -7,7 +7,7 @@ A Node.js wrapper for the Orange Money Web Payment API.
 To install the package, use the following command:
 
 ```sh
-npm install orange-money-api
+npm i wanna_orange-money-api
 
 
 Usage
